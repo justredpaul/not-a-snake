@@ -1,0 +1,14 @@
+{
+  "name": "not-a-snake",
+  "version": "1.0.0",
+  "description": "Not a snake game",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "author": "Pavel (Paul) Popov <justredpaul@ya.ru>",
+  "private": true,
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.2",
+    "parcel": "^2.0.0-beta.2"
+  }
+}
